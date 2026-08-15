@@ -1,4 +1,5 @@
-This MERN stack project, Talent IQ, is a sophisticated video calling and real-time coding platform designed for technical interviews. It integrates several modern services to handle complex features like secure code execution and live video.
+This MERN stack project, Talent IQ, is a sophisticated video calling and real-time coding platform designed for technical interviews. 
+It integrates several modern services to handle complex features like secure code execution and live video.
 
 1. Core Frontend Stack
 React: The functional foundation of the UI.
