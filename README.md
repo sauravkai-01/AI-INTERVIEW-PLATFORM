@@ -32,12 +32,12 @@ UI Components,daisyUI
 Auth Strategy,JWT / Session Management via Clerk
 
 
-✨ Highlights:
-🧑‍💻 VSCode-Powered Code Editor
-🔐 Authentication via Clerk
-🎥 1-on-1 Video Interview Calls Powered by Stream Video
-🧭 Dashboard with Live Stats
-🔊 Mic & Camera Toggle, Screen Sharing & Recording
+✨ Highlights:  
+🧑‍💻 VSCode-Powered Code Editor  
+🔐 Authentication via Clerk  
+🎥 1-on-1 Video Interview Calls Powered by Stream Video  
+🧭 Dashboard with Live Stats  
+🔊 Mic & Camera Toggle, Screen Sharing & Recording  
 💬 Real-time Chat Messaging by Stream
 ⚙️ Secure Code Execution in Isolated Environment
 🎯 Auto Feedback — Success / Fail based on test cases
