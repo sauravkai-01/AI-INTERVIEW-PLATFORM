@@ -1,7 +1,7 @@
 This MERN stack project, Talent IQ, is a sophisticated video calling and real-time coding platform designed for technical interviews. 
 It integrates several modern services to handle complex features like secure code execution and live video.
 
-1. Core Frontend Stack
+1. Core Frontend Stack  
 React: The functional foundation of the UI.
 Tailwind CSS & daisyUI: Used for rapid, responsive styling. The project features a dark, high-contrast theme suitable for code editors.
 TanStack Query (React Query): Manages server state, providing efficient data fetching, caching, and synchronization between the client and the Node.js API.
